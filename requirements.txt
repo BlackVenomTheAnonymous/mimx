@@ -1,1 +1,4 @@
-
+pyrogram==1.4.2
+telethon==1.23.0
+requests==2.26.0
+ipaddress==1.0.25
